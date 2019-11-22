@@ -4,6 +4,7 @@
 - I had a mental block when it came to where to display the commits. The commits deserve more love.
 - Did not write tests, but tried to account for API failures. Error states deserve more love.
 - Lack of color and visual flair, your eyes deserve better.
+- Totally forgot about responsiveness, other devices/sizes deserve better.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
